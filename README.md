@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Vignesh Kumar Rajavelu 👋
 
-<!--
-**VIGNESH15103/VIGNESH15103** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science student at PES University, Bangalore  
+🧠 Passionate about AI/ML, Systems, and Open Source  
+💼 Research intern at SDSU | Working on BTS Snapshot Analysis with Nokia  
+🚀 Actively contributing to open source and building real-world tech projects  
+📫 Reach me at: vigneshkumarrajavelu@gmail.com | [LinkedIn](https://www.linkedin.com/in/vignesh-kumar-rajavelu-3b091b249/)  
 
-Here are some ideas to get you started:
+## 🔧 Skills
+- Programming: Python, Java, C, Bash
+- Tools/Frameworks: FastAPI, Docker, Python, OpenCV, PyTorch, TensorFlow, 
+- Domains: ML, Backend Development, Drone Security, Telecom Log Analytics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎯 Goals
+- ✅ Contribute meaningfully to open source projects
+- ✅ Publish impactful research with academic and industry partners
+- 🎯 Secure high-impact internships and job opportunities in cutting-edge tech
+
+## 💻 Projects
+- 🚁 **Drone Security System**: IR + Visible + Audio fusion, YOLOv8 + ByteTrack + GPS Spoofing  
+- 📊 **Telecom Log Analysis**: Graylog-based BTS Snapshot analyzer for Nokia  
+- 🧠 **Mock Interview Assistant**: RAG + Phi-2 for personalized interview prep
+
+---
+
+🌱 *Always learning, building, and collaborating to make meaningful contributions!*
