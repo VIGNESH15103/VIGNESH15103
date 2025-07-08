@@ -9,7 +9,7 @@
 ## 🔧 Skills
 - Programming: Python, Java, C, Bash
 - Tools/Frameworks: FastAPI, Docker, Python, OpenCV, PyTorch, TensorFlow, 
-- Domains: ML, Backend Development, Drone Security, Telecom Log Analytics
+- Domains: ML, Backend Development, Gen ai, Telecom Log Analytics, Deep learning 
 
 ## 🎯 Goals
 - ✅ Contribute meaningfully to open source projects
