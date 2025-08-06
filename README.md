@@ -2,7 +2,7 @@
 
 🎓 Computer Science student at PES University, Bangalore  
 🧠 Passionate about AI/ML, Systems, and Open Source  
-💼 Research intern at SDSU | Working on BTS Snapshot Analysis with Nokia  
+💼 Remote Research Collaborator at SDSU | Working on BTS Snapshot Analysis with Nokia  
 🚀 Actively contributing to open source and building real-world tech projects  
 📫 Reach me at: vigneshkumarrajavelu@gmail.com | [LinkedIn](https://www.linkedin.com/in/vignesh-kumar-rajavelu-3b091b249/)  
 
